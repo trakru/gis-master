@@ -1,0 +1,63 @@
+﻿AP Mac,Model,Street,Street 2,City,State,Zip Code,Latitude,Longitude,Region,Zone,Zone Type,Site ID
+00:0D:67:9B:D5:C8,BA100SNE-11,100 W Oxford St,,Philadelphia,PA,19122,39.974268,-75.135082,Freedom,Fishtown,Secondary,OUT775
+74:EA:E8:F2:CD:DA,OG1600A,1507 N Hope Street,,Philadelphia,PA,19122,39.973166,-75.135474,Freedom,Fishtown,Secondary,OUT761
+74:EA:E8:F2:CD:5E,OG1600A,17 W Thompson St,,Philadelphia,PA,19125,39.97024,-75.134931,Freedom,Fishtown,Primary,BIG842546
+A8:9F:EC:DA:BA:76,OG1600A,179 E Allen St,,Philadelphia,PA,19125,39.966232,-75.132334,Freedom,Fishtown,Secondary,BIG842575
+F8:2D:C0:BE:E3:92,OG1600A,1241 E Columbia Ave,,Philadelphia,PA,19125,39.971316,-75.130996,Freedom,Fishtown,Secondary,BIG842533
+00:0D:67:9B:75:10,BA100SNE-11,1255 Marlborough St,,Philadelphia,PA,19125,39.971163,-75.132432,Freedom,Fishtown,Secondary,BIG842534
+A8:9F:EC:DA:C4:42,OG1600A,330 E Girard Ave,,Philadelphia,PA,19125,39.96997,-75.130699,Freedom,Fishtown,Secondary,BIG842539
+A8:9F:EC:DA:C4:1E,OG1600A,228 E Girard Ave,,Philadelphia,PA,19125,39.969189,-75.132936,Freedom,Fishtown,Secondary,BIG842541
+F8:2D:C0:BF:92:B6,OG1600A,1034 Marlborough St,,Philadelphia,PA,19125,39.968367,-75.131091,Freedom,Fishtown,Secondary,
+A8:9F:EC:FB:EC:A2,OG1600A,11 W Wildey St,,Philadelphia,PA,19123,39.967066,-75.134526,Freedom,Fishtown,Secondary,BIG842543
+A8:9F:EC:DA:C4:52,OG1600A,1240 Frankford Ave,,Philadelphia,PA,19125,39.969937,-75.134355,Freedom,Fishtown,Primary,BIG842545
+A8:9F:EC:DA:C4:22,OG1600A,1331 Frankford Ave,,Philadelphia,PA,19125,39.971131,-75.134323,Freedom,Fishtown,Primary,BIG842547
+74:EA:E8:F2:CE:4E,OG1600A,1435 Frankford Ave,,Philadelphia,PA,19125,39.973232,-75.133777,Freedom,Fishtown,Primary,BIG842549
+F8:2D:C0:BF:90:B6,OG1600A,1601 Frankford Ave,,Philadelphia,PA,19125,39.974103,-75.133269,Freedom,Fishtown,Primary,BIG842552
+A8:9F:EC:FB:EB:32,OG1600A,1500 N Front St,,Philadelphia,PA,19122,39.973061,-75.135131,Freedom,Fishtown,Secondary,BIG842553
+74:EA:E8:F2:CD:D6,OG1600A,12 W Palmer St,,Philadelphia,PA,19125,39.97584,-75.133256,Freedom,Fishtown,Secondary,BIG842554
+F8:2D:C0:BE:F9:E6,OG1600A,1759 Frankford Ave,,Philadelphia,PA,19125,39.976043,-75.132172,Freedom,Fishtown,Secondary,BIG842555
+00:0D:67:99:D0:44,BA100SNE-11,1030 Marlborough St,,Philadelphia,PA,19125,39.96761,-75.130672,Freedom,Fishtown,Secondary,BIG842573
+A8:9F:EC:DA:90:8E,OG1600A,32 W Girard Ave,,Philadelphia,PA,19123,39.968629,-75.135557,Freedom,Fishtown,Secondary,BIG842544
+A8:9F:EC:FB:EC:9A,OG1600A,1016 N Hope St,,Philadelphia,PA,19123,39.966882,-75.137384,Freedom,Fishtown,Secondary,BIG842561
+A8:9F:EC:DA:90:92,OG1600A,1155 N Hancock St,,Philadelphia,PA,19123,39.969152,-75.138432,Freedom,Fishtown,Secondary,BIG842560
+A8:9F:EC:FC:30:8A,OG1600A,700 S 12th St,,Philadelphia,PA,19147,39.942298,-75.162065,Freedom,South St Zone 1,Secondary,BIG842806
+A8:9F:EC:DA:B3:F6,OG1600A,745 S 12th St,,Philadelphia,PA,19147,39.94089,-75.162243,Freedom,South St Zone 1,Secondary,BIG842766
+A8:9F:EC:DA:AF:FE,OG1600A,903 S 10th St,,Philadelphia,PA,19147,39.939114,-75.159355,Freedom,South St Zone 1,Secondary,BIG842447
+A8:9F:EC:DA:B3:FA,OG1600A,739 S 11th St,,Philadelphia,PA,19147,39.941096,-75.16045,Freedom,South St Zone 1,Secondary,BIG842446
+A8:9F:EC:FC:30:D2,OG1600A,730 S 7th St,,Philadelphia,PA,19147,39.940486,-75.154352,Freedom,South St Zone 1,Secondary,BIG842392
+A8:9F:EC:FC:30:DE,OG1600A,620 S 7th St,,Philadelphia,PA,19147,39.941526,-75.154132,Freedom,South St Zone 1,Secondary,BIG842391
+A8:9F:EC:FC:27:22,OG1600A,622 S 9th St,,Philadelphia,PA,19147,39.941708,-75.157344,Freedom,South St Zone 1,Primary,BIG842388
+A8:9F:EC:FC:30:AE,OG1600A,1048 South St.,,Philadelphia,PA,19147,39.942949,-75.160248,Freedom,South St Zone 1,Primary,BIG843535
+A8:9F:EC:FC:30:96,OG1600A,502 S 13th St,,Philadelphia,PA,19147,39.944372,-75.163339,Freedom,South St Zone 1,Secondary,BIG842673
+00:0D:67:7B:9C:34,AP5250,308 S 12th St,,Philadelphia,PA,19107,39.946072,-75.161217,Freedom,South St Zone 1,Secondary,BIG842661
+A8:9F:EC:FC:30:A6,OG1600A,1001 Rodman St.,,Philadelphia,PA,19147,39.943227,-75.158925,Freedom,South St Zone 1,Primary,BIG842657
+F8:2D:C0:BF:92:76,OG1600A,603 S 10th St,,Philadelphia,PA,19147,39.942676,-75.158662,Freedom,South St Zone 1,Primary,BIG842633
+A8:9F:EC:DA:B2:6A,OG1600A,600 S 9th St,,Philadelphia,PA,19147,39.942547,-75.157202,Freedom,South St Zone 1,Primary,BIG842632
+A8:9F:EC:FC:30:86,OG1600A,606 S 11th St,,Philadelphia,PA,19147,39.942893,-75.160178,Freedom,South St Zone 1,Primary,BIG17639
+00:0D:67:9A:61:FC,BA100SNE-11,1004 Fitzwater St,,Philadelphia,PA,19147,39.940922,-75.159207,Freedom,South St Zone 1,Secondary,BIG17637
+A8:9F:EC:FC:29:9E,OG1600A,1204 Catharine St,,Philadelphia,PA,19147,39.940282,-75.162489,Freedom,South St Zone 1,Secondary,BIG17635
+A8:9F:EC:DA:B2:E2,OG1600A,11 E Springfield Ave,,Philadelphia,PA,19118,40.069663,-75.199766,Freedom,Chestnut Hill,Secondary,BIG16376
+A8:9F:EC:FC:27:E6,OG1600A,5 W Highland Ave,,Philadelphia,PA,19118,40.075915,-75.206641,Freedom,Chestnut Hill,Primary,BIG16338
+A8:9F:EC:FC:30:E6,OG1600A, Fitzwater,,Philadelphia,PA,19147,39.940723,-75.157555,Freedom,South St Zone 1,Secondary,COM910030
+A8:9F:EC:FC:27:56,OG1600A, Bainbridge,,Philadelphia,PA,19147,39.941849,-75.158539,Freedom,South St Zone 1,Primary,COM910029
+00:0D:67:83:B0:6C,BA100SNE-11, Roanoak St.,,Philadelphia,PA,19118,40.071354,-75.203629,Freedom,Chestnut Hill,Secondary,COM910023
+A8:9F:EC:DA:B9:E6,OG1600A, Bethlehem Pike,,Philadelphia,PA,19118,40.079666,-75.207901,Freedom,Chestnut Hill,Secondary,COM910022
+A8:9F:EC:DA:B9:C6,OG1600A, Bethlehem Pike,,Philadelphia,PA,19118,40.078209,-75.208099,Freedom,Chestnut Hill,Secondary,COM910021
+F8:2D:C0:BF:8E:BA,OG1600A, Woodale Rd,,Philadelphia,PA,19118,40.071495,-75.201225,Freedom,Chestnut Hill,Secondary,COM910020
+F8:2D:C0:BF:8F:26,OG1600A, W. Hartwell Lane,,Philadelphia,PA,19118,40.073265,-75.202484,Freedom,Chestnut Hill,Primary,COM910019
+A8:9F:EC:DA:B9:EE,OG1600A, W. Gravers Lane,,Philadelphia,PA,19118,40.075008,-75.204941,Freedom,Chestnut Hill,Primary,COM910018
+A8:9F:EC:DA:B9:8A,OG1600A, W. Evergreen Ave,,Philadelphia,PA,19118,40.0765,-75.207504,Freedom,Chestnut Hill,Primary,COM910017
+A8:9F:EC:FC:28:8E,OG1600A, Rex Ave,,Philadelphia,PA,19118,40.077221,-75.209183,Freedom,Chestnut Hill,Secondary,COM910016
+A8:9F:EC:FC:28:DA,OG1600A,600 S 7th St,,Philadelphia,PA,19147,39.942245,-75.153883,Freedom,South St Zone 1,Secondary,BIG100439
+A8:9F:EC:FC:26:EE,OG1600A,601 S Delhi St,,Philadelphia,PA,19147,39.942654,-75.158045,Freedom,South St Zone 1,Primary,BIG100433
+00:0D:67:76:9E:60,AP5250,306 S 11th St,,Philadelphia,PA,19107,39.94619,-75.159546,Freedom,South St Zone 1,Secondary,BIG5598
+00:0D:67:7B:AA:08,AP5250,951 Pine St,,Philadelphia,PA,19147,39.944691,-75.157825,Freedom,South St Zone 1,Secondary,BIG5597
+A8:9F:EC:DA:B9:D2,OG1600A,0 E Southampton Ave,,Philadelphia,PA,19118,40.074526,-75.203191,Freedom,Chestnut Hill,Primary,BIG5329
+A8:9F:EC:DA:B9:DA,OG1600A,40 W Evergreen Ave,,Philadelphia,PA,19118,40.075577,-75.20845,Freedom,Chestnut Hill,Secondary,BIG5328
+A8:9F:EC:FC:30:D6,OG1600A,802 South St,,Philadelphia,PA,19147,39.942524,-75.155556,Freedom,South St Zone 1,Secondary,BIG2003
+A8:9F:EC:DA:C4:1A,OG1600A,200 East Girard Avenue,,Philadelphia,PA,19125,39.9689,-75.134,Freedom,Fishtown,Secondary,BIG719
+A8:9F:EC:FC:26:EA,OG1600A,1016 Christian Street,,Philadelphia,PA,19147,39.939293,-75.160233,Freedom,South St Zone 1,Secondary,BIG467
+A8:9F:EC:DA:AD:52,OG1600A,801 Catherine Street,,Philadelphia,PA,19147,39.939919,-75.159325,Freedom,South St Zone 1,Secondary,BIG465
+A8:9F:EC:FC:22:82,OG1600A,912 Christian Street,,Philadelphia,PA,19147,39.939012,-75.158289,Freedom,South St Zone 1,Secondary,BIG464
+A8:9F:EC:FC:30:B6,OG1600A,744 Bainbridge Street,,Philadelphia,PA,19147,39.941646,-75.156092,Freedom,South St Zone 1,Secondary,BIG461
+A8:9F:EC:DA:B9:D6,OG1600A,8330 Anderson Street,,Philadelphia,PA,19118,40.077043,-75.201953,Freedom,Chestnut Hill,Secondary,BIG350
